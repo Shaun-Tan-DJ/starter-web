@@ -12,3 +12,6 @@ change 4
 Sample website with plenty of files for demos
 
 ## Deployment
+
+## Copyright
+Copyright 2022
