@@ -9,6 +9,7 @@ change 3
 change 4
 ## Purpose
 change 5
+change 6
 
 Sample website with plenty of files for demos
 
