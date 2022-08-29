@@ -16,6 +16,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## Copyright
-Copyright 2022
+Copyright 2022 all rights reserve
 
 more changes!
