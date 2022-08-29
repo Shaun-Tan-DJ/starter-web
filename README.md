@@ -11,7 +11,7 @@ change 4
 change 5
 change 6
 
-Sample website with plenty of files for demos
+Sample website plenty of files for demos
 
 ## Deployment
 
